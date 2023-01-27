@@ -6,4 +6,3 @@
 4. Eddie Elorza Ruiz (eddieelorza)
 5. Manuyel Dominguez (ETERNAL)
 6. Kim (Raco)
-7.Rafaelvillaseñor (Rafaelvi03)
