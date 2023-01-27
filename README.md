@@ -1,4 +1,5 @@
-# kodemia-24js-git
+# Kodemia GIT Colaboration exercise
 
 1. Alfredo Altamirano (Ahuahuachi)
-2. Roberto Enrique Alberto Lira
+2. Dámaris Cubos Rosas (damaris-cubos-rosas)
+3. Roberto Enrique Alberto Lira
