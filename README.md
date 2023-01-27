@@ -1,4 +1,6 @@
-# kodemia-24js-git
+# Kodemia GIT Colaboration exercise
 
 1. Alfredo Altamirano (Ahuahuachi)
-2.Rafael Villaseñor (Rafaelvi03)
+2. Dámaris Cubos Rosas (damaris-cubos-rosas)
+
+4.Rafael Villaseñor (Rafaelvi03)
