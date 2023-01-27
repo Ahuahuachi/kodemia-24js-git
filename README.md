@@ -14,5 +14,4 @@
 <<<<<<< HEAD
 =======
 9. Moises Contreras (moseshawk)
->>>>>>> 418a21ae4d4238c7593cd85e3613c22e19b69dfb
->>>>>>> main
+10.- Mario Enrique (mariomesm)
