@@ -7,11 +7,6 @@
 5. Manuel Dominguez (ETERNALPSY)
 6. Kim Ramírez Coronado (KimRaco)
 7. Iyari Maldonado (MaestroMiyagi)
-<<<<<<< HEAD
-
-=======
-8.RafaelVillaseñor (Rafaelvi03)
-<<<<<<< HEAD
-=======
+8. RafaelVillaseñor (Rafaelvi03)
 9. Moises Contreras (moseshawk)
-10.- Mario Enrique (mariomesm)
+10. Hector Almaguer (hectorAlmaguer)
