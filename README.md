@@ -12,5 +12,5 @@
 6. Kim Ramírez Coronado (KimRaco)
 >>>>>>> 7e5b884c0c03690c8a990e2ae109ad2552668373
 7. Iyari Maldonado (MaestroMiyagi)
-8.RafaelVillaseñor (Rafaelvi03)
+8. RafaelVillaseñor (Rafaelvi03)
 9. Moises Contreras (moseshawk)
