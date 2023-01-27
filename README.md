@@ -7,3 +7,4 @@
 5. Manuyel Dominguez (ETERNAL)
 6. Kim (Raco)
 7. Iyari Maldonado (MaestroMiyagi)
+8.-Mario Enrique Serrano Martinez (mariomesm)
